@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/sweet.iml" filepath="$PROJECT_DIR$/.idea/sweet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sweet-cloud-module/sweet-cloud-base/sweet-cloud-base.iml" filepath="$PROJECT_DIR$/sweet-cloud-module/sweet-cloud-base/sweet-cloud-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sweet-cloud-module/sweet-cloud-module.iml" filepath="$PROJECT_DIR$/sweet-cloud-module/sweet-cloud-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sweet-cloud-module/sweet-cloud-base/sweet-cloud-nacos/sweet-cloud-nacos.iml" filepath="$PROJECT_DIR$/sweet-cloud-module/sweet-cloud-base/sweet-cloud-nacos/sweet-cloud-nacos.iml" />
+    </modules>
+  </component>
+</project>
